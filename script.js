@@ -20,3 +20,5 @@ function onChange(){
 
 password.addEventListener("change", onChange);
 confirmPassword.addEventListener("change", onChange);
+
+//:)
