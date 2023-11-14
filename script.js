@@ -22,4 +22,4 @@ password.addEventListener("change", onChange);
 confirmPassword.addEventListener("change", onChange);
 
 //:)
-//here is the demo
+//here is the demo of 
